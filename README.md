@@ -17,27 +17,33 @@
 # 💫 About Me
 
 ```yaml
-Name: Jaswanth
+Name: Redam Jaswanth
 
 Education:
-  - MCA Graduate
+
+  * MCA Graduate
 
 Current Focus:
-  - Python
-  - Machine Learning
-  - Artificial Intelligence
-  - Data Science
+
+  * Python
+  * Machine Learning
+  * Artificial Intelligence
+  * Data Science
 
 Currently Learning:
-  - Scikit-learn
-  - Pandas
-  - NumPy
-  - SQL
-  - Git & GitHub
+
+  * Generative AI & LLM Application Development
+  * Agentic AI & AI Agents
+  * LLM Fine-Tuning & QLoRA
+  * RAG & Advanced Retrieval Techniques
+  * FastAPI & AI Backend Development
+  * MLOps & Model Deployment
+  * Transformers & Hugging Face
+  * SQL & Database Integration
 
 Goal:
-  - Become an AI & Machine Learning Engineer
-```
+
+  * Become an AI & Machine Learning Engineer
 
 ---
 
