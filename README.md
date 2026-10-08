@@ -30,9 +30,9 @@
 
 <div align="center">
 
-# ⚡ `WELCOME TO MY AI LAB`
+<h1 align="center">⚡ <code>WELCOME TO MY AI LAB</code></h1>
 
-### Where **Code + AI + Prompts + Creativity** become working projects.
+<p align="center">Where <strong>Code + AI + Prompts + Creativity</strong> become working projects.</p>
 
 ```text
                     ┌──────────────────────────┐
