@@ -1,37 +1,40 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=REDAM%20JASWANTH&fontSize=52&fontAlignY=36&desc=AI%20%26%20ML%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20GENAI%20ARCHITECT&descFontSize=18&descAlignY=56&animation=fadeIn&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=REDAM%20JASWANTH&fontSize=52&fontAlignY=36&desc=AI%20%26%20ML%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20GENAI%20ARCHITECT&descFontSize=18&descAlignY=56&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/RedamJaswanth">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%26+Agentic+Systems+Architect;Autonomous+Multi-Agent+Workflows+%26+Orchestration;Context-Aware+Enterprise+RAG+Pipelines;Computer+Vision+%7C+YOLOv8+%7C+MediaPipe;AI+Safety+%26+Enterprise+LLM+Guardrails;AI-Assisted+Game+Creator+%26+Cursor+Wizard;From+Prompts+%2B+Math+Into+Deployed+Intelligence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%26+Agentic+Systems+Architect;Autonomous+Multi-Agent+Workflows+%26+Orchestration;Context-Aware+Enterprise+RAG+Pipelines;Computer+Vision+%7C+YOLOv8+%7C+MediaPipe;AI+Safety+%26+Enterprise+LLM+Guardrails;AI-Assisted+Game+Creator+%26+Cursor+Wizard;From+Prompts+%2B+Math+Into+Deployed+Intelligence" alt="Typing SVG"/>
 </a>
 
 <br><br>
 
 <!-- QUICK CONNECT & SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/redamjaswanth/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:jaswanthredam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jaswanthredam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-jaswanthredam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://github.com/RedamJaswanth">
-  <img src="https://img.shields.io/badge/GitHub-RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://github.com/RedamJaswanth?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7B61FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7B61FF?style=for-the-badge&logo=git&logoColor=white" alt="Projects"/>
 </a>
 
 <br><br>
 
-<!-- METRICS / VISITORS / BADGES -->
-<img src="https://komarev.com/ghpvc/?username=RedamJaswanth&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS"/>
-<img src="https://img.shields.io/github/followers/RedamJaswanth?label=FOLLOWERS&style=for-the-badge&color=7B61FF"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00E676?style=for-the-badge"/>
+<!-- TELEMETRY / VISITORS -->
+<img src="https://komarev.com/ghpvc/?username=RedamJaswanth&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS" alt="Visitors"/>
+<img src="https://img.shields.io/github/followers/RedamJaswanth?label=FOLLOWERS&style=for-the-badge&color=7B61FF" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00E676?style=for-the-badge" alt="Status"/>
 
 </div>
 
@@ -59,15 +62,11 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=WHO%20I%20AM%20%26%20WHAT%20I%20BUILD&fontSize=18&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
-</div>
+<h2 align="center">💡 Who I Am & What I Build</h2>
 
-<br>
+I am an **AI & Machine Learning Engineer** dedicated to engineering intelligent, scalable, and autonomous systems that bridge state-of-the-art AI research with practical software solutions.
 
-I am an **AI & Machine Learning Engineer** focused on building intelligent, scalable, and autonomous systems that bridge state-of-the-art AI research with real-world applications.
-
-I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Architectures, Computer Vision, and Deep Learning**. Beyond engineering AI models, I actively explore **Prompt-Driven Software Engineering and AI-assisted Game Development**, utilizing modern AI environments like Cursor and Antigravity to turn conceptual ideas into production-ready software.
+I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Architectures, Computer Vision, and Deep Learning**. Beyond standard machine learning pipelines, I actively push the frontier of **Prompt-Driven Software Engineering and AI-assisted Game Development**, utilizing next-generation AI environments like Cursor and Antigravity to turn abstract ideas into production-ready software.
 
 > *"I don't just study AI algorithms — I design, stress-test, and deploy systems that solve complex problems."*
 
@@ -78,7 +77,7 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- ARCHITECTURE FLOW DIAGRAM -->
 <div align="center">
 
-### 🏛️ `SYSTEM_ARCHITECTURE_MAP`
+<h3>🏛️ System Architecture & Workflow Pipeline</h3>
 
 ```text
                                   ┌───────────────────────────┐
@@ -111,61 +110,63 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- MASTER TECH STACK -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=TECH%20STACK%20%26%20ENGINEERING%20ARSENAL&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
+<h2>🛠️ Tech Stack & Engineering Arsenal</h2>
 
-<br><br>
+<br>
 
 ### 💻 Languages & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,js,html,css" alt="Languages"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🧠 AI, Machine Learning & Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="ML Frameworks"/>
   <br><br>
-  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-000000?style=for-the-badge&logo=yolo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-Google-0078D7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-High%20Performance-EC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-0054A6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-00599C?style=for-the-badge" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Google-MediaPipe-0078D7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC0000?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ### ⚡ Generative AI, LLMs & Agentic Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Autonomous%20Agents-7928CA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Gemini%201.5-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BERT-Fine--Tuning-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Guardrails-Safety%20%26%20Validation-FF0055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Autonomous%20Agents-7928CA?style=for-the-badge" alt="Multi-Agent"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00F7FF?style=for-the-badge&labelColor=0D1117" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Google-Gemini%201.5%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/BERT-Fine--Tuning-FFA116?style=for-the-badge" alt="BERT"/>
+  <img src="https://img.shields.io/badge/LLM%20Guardrails-Safety%20%26%20Validation-FF0055?style=for-the-badge" alt="Guardrails"/>
 </p>
 
-### 🗄️ Vector Databases & Knowledge Bases
+### 🗄️ Vector Databases & Knowledge Storage
 <p align="center">
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-Meta%20AI-0467DF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-SentenceTransformers-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Embeddings-SentenceTransformers-4CAF50?style=for-the-badge" alt="Embeddings"/>
 </p>
 
 ### 📊 Data Science, Analytics & BI
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-SOC%20%26%20Threat%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-SOC%20%26%20Threat%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-3776AB?style=for-the-badge" alt="Seaborn"/>
 </p>
 
 ### 🛠️ Backend, Deployment & Developer Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,vscode" alt="Dev Tools"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-Agentic%20Coding-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Full%20Stack%20AI%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=for-the-badge" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Antigravity-Agentic%20Coding-111111?style=for-the-badge" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 </div>
@@ -175,7 +176,7 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- FEATURED PROJECTS SHOWCASE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=FEATURED%20AI%20ENGINEERING%20PROJECTS&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
+<h2>🚀 Featured AI Engineering Projects</h2>
 
 </div>
 
@@ -237,7 +238,7 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 
 <div align="center">
   <a href="https://github.com/RedamJaswanth?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-➔-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-➔-00F7FF?style=for-the-badge&labelColor=0D1117" alt="View Repositories"/>
   </a>
 </div>
 
@@ -248,13 +249,13 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- AI GAME LAB SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=AI%20GAME%20DEV%20LAB%20%26%20PROMPT-TO-PLAY&fontSize=20&fontColor=FF4DFF&color=0D1117&stroke=FF4DFF&strokeWidth=1"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=FF4DFF&center=true&vCenter=true&width=800&lines=GAME+DEV+NODE+%3A+ACTIVE;PROMPT+%E2%86%92+CODE+%E2%86%92+PLAYABLE+GAME;AI-ASSISTED+GAME+DEVELOPMENT;CURSOR+%2B+AI+LOGIC+PIPELINES"/>
+<h2>🎮 AI Game Dev Lab & Prompt-to-Play Arcade</h2>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=FF4DFF&center=true&vCenter=true&width=800&lines=GAME+DEV+NODE+%3A+ACTIVE;PROMPT+%E2%86%92+CODE+%E2%86%92+PLAYABLE+GAME;AI-ASSISTED+GAME+DEVELOPMENT;CURSOR+%2B+AI+LOGIC+PIPELINES" alt="Game Dev Typing"/>
+
+<br><br>
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -285,14 +286,15 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- GITHUB COMMAND CENTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=GITHUB%20TELEMETRY%20%26%20COMMAND%20CENTER&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
+<h2>📈 GitHub Telemetry & Stats Hub</h2>
 
-<br><br>
+<br>
 
 <!-- GITHUB STATS & TOP LANGS -->
 <a href="https://github.com/RedamJaswanth">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedamJaswanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Redam Jaswanth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedamJaswanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Redam Jaswanth's GitHub Stats" />
 </a>
+&nbsp;
 <a href="https://github.com/RedamJaswanth">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedamJaswanth&layout=compact&theme=tokyonight&hide_border=true" alt="Redam Jaswanth's Top Languages" />
 </a>
@@ -304,18 +306,6 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
   <img src="https://streak-stats.demolab.com?user=RedamJaswanth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<br><br>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/RedamJaswanth">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedamJaswanth&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
-</a>
-
-<br><br>
-
-<!-- ACHIEVEMENTS TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=RedamJaswanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
-
 </div>
 
 ---
@@ -323,24 +313,24 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <!-- CONNECT & COLLABORATE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=LET%27S%20CONNECT%20%26%20COLLABORATE&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
+<h2>🤝 Let's Connect & Collaborate</h2>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+for+AI+%2F+Machine+Learning+Engineering+Roles;Open+for+Collaborative+AI+%26+Multi-Agent+Projects;Always+Architecting+the+Next+Intelligent+System"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+for+AI+%2F+Machine+Learning+Engineering+Roles;Open+for+Collaborative+AI+%26+Multi-Agent+Projects;Always+Architecting+the+Next+Intelligent+System" alt="Connect Typing"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/redamjaswanth/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:jaswanthredam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Direct%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Direct%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/RedamJaswanth">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20%40RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20%40RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -355,7 +345,7 @@ I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomou
 <br>
 
 <!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=gradient" width="100%" alt="Footer"/>
 
 <p align="center">
   ⚡ <b>ENGINEERED BY REDAM JASWANTH</b> ⚡<br>
