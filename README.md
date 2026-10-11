@@ -109,7 +109,7 @@ flowchart TD
 
 ### 💻 Languages & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,js,html,css" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css" alt="Languages"/>
   <br><br>
   <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
