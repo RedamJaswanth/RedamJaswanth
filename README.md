@@ -1,736 +1,365 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=REDAM%20JASWANTH&fontSize=52&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20GENAI%20%7C%20GAME%20CREATOR&descAlignY=58&animation=fadeIn&color=gradient"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=REDAM%20JASWANTH&fontSize=52&fontAlignY=36&desc=AI%20%26%20ML%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20GENAI%20ARCHITECT&descFontSize=18&descAlignY=56&animation=fadeIn&color=gradient"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Builder;RAG+%7C+LLMs+%7C+Agentic+AI;Computer+Vision+%7C+Deep+Learning;Prompt-Driven+Developer;AI-Assisted+Game+Creator;Building+Ideas+Into+Working+Systems"/>
-
-<br><br>
-
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/RedamJaswanth">
-<img src="https://img.shields.io/badge/GitHub-RedamJaswanth-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/redamjaswanth/">
-<img src="https://img.shields.io/badge/LinkedIn-RedamJaswanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jaswanthredam@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%26+Agentic+Systems+Architect;Autonomous+Multi-Agent+Workflows+%26+Orchestration;Context-Aware+Enterprise+RAG+Pipelines;Computer+Vision+%7C+YOLOv8+%7C+MediaPipe;AI+Safety+%26+Enterprise+LLM+Guardrails;AI-Assisted+Game+Creator+%26+Cursor+Wizard;From+Prompts+%2B+Math+Into+Deployed+Intelligence"/>
 </a>
 
 <br><br>
 
+<!-- QUICK CONNECT & SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/redamjaswanth/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jaswanthredam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jaswanthredam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/RedamJaswanth">
+  <img src="https://img.shields.io/badge/GitHub-RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/RedamJaswanth?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7B61FF?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- METRICS / VISITORS / BADGES -->
 <img src="https://komarev.com/ghpvc/?username=RedamJaswanth&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/RedamJaswanth?label=FOLLOWERS&style=for-the-badge&color=7B61FF"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00E676?style=for-the-badge"/>
 
 </div>
 
 ---
 
+<!-- TERMINAL HUD & BIO -->
 <div align="center">
 
-<h1 align="center">⚡ <code>WELCOME TO MY AI LAB</code></h1>
-
-<p align="center">Where <strong>Code + AI + Prompts + Creativity</strong> become working projects.</p>
-
 ```text
-                    ┌──────────────────────────┐
-                    │       REDAM JASWANTH     │
-                    │                          │
-                    │   AI / ML ENGINEER       │
-                    │                          │
-                    │  BUILD → BREAK → LEARN   │
-                    │  → IMPROVE → DEPLOY      │
-                    └────────────┬─────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        🤖 AI SYSTEMS       🎮 AI GAMES         🧪 EXPERIMENTS
-             │                   │                   │
-             ▼                   ▼                   ▼
-        ML / GenAI          Cursor / AI IDEs      R&D
-        RAG / Agents        Prompt Building       Fine-Tuning
-        Computer Vision     Game Logic             Prototypes
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║                             ⚡ AUTONOMOUS AI LAB // TERMINAL HUD                       ║
+╠════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                        ║
+║  ▶ USER IDENTIFIER  : REDAM JASWANTH                                                  ║
+║  ▶ SPECIALIZATION   : AI / ML Engineer & Agentic Systems Builder                       ║
+║  ▶ EDUCATION        : Master of Computer Applications (MCA)                            ║
+║  ▶ CORE MISSION     : Engineer resilient AI systems from prompt to production         ║
+║  ▶ WORKFLOW LOOP    : PROMPT ➔ ARCHITECT ➔ CODE ➔ TRAIN ➔ BENCHMARK ➔ SHIP            ║
+║  ▶ ACTIVE NODES     : Multi-Agent Swarms · Enterprise RAG · Computer Vision · AI Games ║
+║                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-# 🧠 WHO AM I?
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif"/>
-
-I'm **Redam Jaswanth**, an MCA graduate focused on becoming an **AI & Machine Learning Engineer**.
-
-I build systems across:
-
-* 🤖 Machine Learning
-* 🧠 Generative AI
-* 🔎 Retrieval Augmented Generation
-* 🧩 Agentic AI
-* 👁️ Computer Vision
-* 🗣️ NLP
-* 🎯 LLM Fine-Tuning
-* 🎮 AI-assisted Game Development
-* ⚙️ AI Automation
-* 🚀 AI Application Deployment
-
-### My approach
-
-```text
-IDEA
- ↓
-PROMPT
- ↓
-PROTOTYPE
- ↓
-CODE
- ↓
-TEST
- ↓
-DEBUG
- ↓
-IMPROVE
- ↓
-DEPLOY
-```
-
-> **I don't just learn technologies. I build things with them.**
-
----
-
-# 🎮 AI GAME LAB
+<br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=FF4DFF&center=true&vCenter=true&width=800&lines=GAME+DEVELOPMENT+MODE+%3A+ONLINE;PROMPT+%E2%86%92+CODE+%E2%86%92+GAME;AI+ASSISTED+GAME+CREATION;BUILDING+GAMES+WITH+CURSOR+%26+AI+TOOLS"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=WHO%20I%20AM%20%26%20WHAT%20I%20BUILD&fontSize=18&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
 </div>
 
-### 🕹️ `GAME_DEV_PROTOCOL`
+<br>
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                    🎮 GAME CREATION                        │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  💡 IDEA                                                   │
-│     ↓                                                      │
-│  📝 NATURAL LANGUAGE PROMPT                                │
-│     ↓                                                      │
-│  🤖 AI CODING ASSISTANT                                    │
-│     ↓                                                      │
-│  💻 CODE GENERATION                                       │
-│     ↓                                                      │
-│  🧪 TESTING                                                │
-│     ↓                                                      │
-│  🐛 DEBUGGING                                              │
-│     ↓                                                      │
-│  🎮 PLAYABLE GAME                                          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+I am an **AI & Machine Learning Engineer** focused on building intelligent, scalable, and autonomous systems that bridge state-of-the-art AI research with real-world applications.
 
-### 🧰 Tools I Use For Prompt-Driven Development
+I specialize in **Generative AI, Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Architectures, Computer Vision, and Deep Learning**. Beyond engineering AI models, I actively explore **Prompt-Driven Software Engineering and AI-assisted Game Development**, utilizing modern AI environments like Cursor and Antigravity to turn conceptual ideas into production-ready software.
 
-<p align="center">
+> *"I don't just study AI algorithms — I design, stress-test, and deploy systems that solve complex problems."*
 
-<img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Antigravity-AI%20Development-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Development-7B61FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-Creative%20Coding-00A67E?style=for-the-badge"/>
-
-</p>
-
-### 🕹️ My Game Projects
-
-> I also experiment with **prompt-built games and interactive experiences**, using AI coding tools to turn natural-language ideas into playable prototypes.
-
-| Project                 | Type                   | Development Style    |
-| ----------------------- | ---------------------- | -------------------- |
-| 🎮 AI Game Project 01   | Game                   | Prompt-driven        |
-| 🎮 AI Game Project 02   | Game                   | Cursor / AI-assisted |
-| 🕹️ Interactive Project | Interactive Experience | Generative Coding    |
-| 🧪 Game Experiment      | Prototype              | AI-assisted          |
-
-**Game repositories will be linked here as they are published.**
+<br>
 
 ---
 
-# 🤖 AI ENGINEERING LAB
-
+<!-- ARCHITECTURE FLOW DIAGRAM -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=ARTIFICIAL%20INTELLIGENCE%20LAB&fontSize=25&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
+### 🏛️ `SYSTEM_ARCHITECTURE_MAP`
+
+```text
+                                  ┌───────────────────────────┐
+                                  │       REDAM JASWANTH      │
+                                  │      AI LAB ECOSYSTEM     │
+                                  └─────────────┬─────────────┘
+                                                │
+         ┌──────────────────────────────┼──────────────────────────────┐
+         │                              │                              │
+         ▼                              ▼                              ▼
+  🤖 AGENTIC & GENAI              📊 ML & VISION                 🎮 AI LAB & GAMES
+  ─────────────────              ────────────────              ──────────────────
+  • Multi-Agent Systems          • Predictive Modeling         • Cursor / AI IDEs
+  • Enterprise RAG               • YOLOv8 Object Tracking      • Prompt-to-Code Engines
+  • LLM Guardrails & Safety      • OpenCV Image Processing     • Interactive Prototypes
+  • Vector Embeddings (Chroma)   • XGBoost / Scikit-Learn      • Game Physics & Logic
+         │                              │                              │
+         └──────────────────────────────┼──────────────────────────────┘
+                                        │
+                                        ▼
+                         🚀 FULL-STACK DEPLOYMENT & OPS
+                         ──────────────────────────────
+                         FastAPI · Streamlit · Docker · Git
+```
 
 </div>
 
-```text
-                    AI ENGINEERING
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
-        ▼                 ▼                 ▼
-       ML               GenAI             Vision
-        │                 │                 │
-   XGBoost             LLMs              YOLO
-   Scikit-Learn        RAG               OpenCV
-   Classification      Agents            OCR
-        │                 │                 │
-        └─────────────────┼─────────────────┘
-                          │
-                          ▼
-                    AI APPLICATIONS
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-           FastAPI    Streamlit     Docker
-              │           │           │
-              └───────────┼───────────┘
-                          ▼
-                    🚀 DEPLOYMENT
-```
-
 ---
 
-# 🧬 MY TECH STACK
+<!-- MASTER TECH STACK -->
+<div align="center">
 
-## 🐍 Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql"/>
-
-</p>
-
----
-
-## 📊 Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=TECH%20STACK%20%26%20ENGINEERING%20ARSENAL&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge"/>
-
+### 💻 Languages & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,bash,js,html,css" />
 </p>
+
+### 🧠 AI, Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+  <br><br>
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-000000?style=for-the-badge&logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-Google-0078D7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-High%20Performance-EC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-0054A6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+### ⚡ Generative AI, LLMs & Agentic Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Autonomous%20Agents-7928CA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Gemini%201.5-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BERT-Fine--Tuning-FFA116?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Guardrails-Safety%20%26%20Validation-FF0055?style=for-the-badge"/>
+</p>
+
+### 🗄️ Vector Databases & Knowledge Bases
+<p align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-Meta%20AI-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-SentenceTransformers-4CAF50?style=for-the-badge"/>
+</p>
+
+### 📊 Data Science, Analytics & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-SOC%20%26%20Threat%20Intelligence-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-3776AB?style=for-the-badge"/>
+</p>
+
+### 🛠️ Backend, Deployment & Developer Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,vscode" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-Agentic%20Coding-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-## 🧠 Generative AI
+<!-- FEATURED PROJECTS SHOWCASE -->
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=FEATURED%20AI%20ENGINEERING%20PROJECTS&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-8A2BE2?style=for-the-badge"/>
+</div>
 
-</p>
+<br>
 
----
-
-## 👁️ Computer Vision
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/EasyOCR-222222?style=for-the-badge"/>
-
-</p>
+### 🤖 01. [Multi-Agent-AI-System](https://github.com/RedamJaswanth/Multi-Agent-AI-System)
+> **Autonomous Multi-Agent Collaboration & Distributed Task Execution Framework**
+- Architected a coordinated multi-agent environment where specialized AI agents plan, delegate, execute, and cross-validate complex programming and analytical workflows.
+- Implemented autonomous tool-calling, inter-agent messaging channels, consensus validation loops, and dynamic error recovery.
+- **Technologies:** `Python` · `Agentic AI` · `LLMs` · `Task Orchestration` · `Prompt Architecture`
 
 ---
 
-## ⚙️ Engineering
+### 🔎 02. [Advanced_PDF_RAG_Assistant](https://github.com/RedamJaswanth/Advanced_PDF_RAG_Assistant)
+> **Production-Grade Context-Aware Retrieval-Augmented Generation Engine**
+- Built an intelligent document interrogation system processing dense multi-page PDFs with high retrieval accuracy and minimal hallucination.
+- Features semantic document chunking, ChromaDB vector indexing, MMR re-ranking, and Google Gemini LLM synthesis.
+- **Technologies:** `Python` · `LangChain` · `Google Gemini API` · `ChromaDB` · `Streamlit`
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github,vscode"/>
+### 🛡️ 03. [Cybersecurity-Threat-Intelligence-Tableau-Dashboard](https://github.com/RedamJaswanth/Cybersecurity-Threat-Intelligence-Tableau-Dashboard)
+> **Interactive SOC Operations & Real-Time MITRE ATT&CK Matrix Analytics**
+- Created an enterprise Security Operations Center (SOC) dashboard tracking global cyber threats, attacker dwell time, CVSS severity distributions, and incident response velocity.
+- Features automated data pipelines, tactical attack vector matrices, CISO executive summaries, and dynamic geo-threat intelligence.
+- **Technologies:** `Tableau` · `Cybersecurity Threat Intel` · `Python` · `MITRE ATT&CK` · `Data Analytics`
+
+---
+
+### 🛡️ 04. [LLM-Guardrails_Workshop](https://github.com/RedamJaswanth/LLM-Guardrails_Workshop)
+> **Enterprise AI Safety Protocols, Validation Boundaries & Prompt Security**
+- Engineered defense layers against prompt injections, adversarial jailbreaks, PII leakage, and non-deterministic hallucinations.
+- Enforces strict input validation, regex/semantic guard filtering, structured JSON schema outputs, and confidence threshold gates.
+- **Technologies:** `Python` · `LLM Guardrails` · `AI Security` · `Prompt Defense` · `Structured Outputs`
+
+---
+
+### 🚗 05. [Vehicle_Number_Plate_Detection](https://github.com/RedamJaswanth/Vehicle_Number_Plate_Detection) & [YOLO-Object-Detection](https://github.com/RedamJaswanth/YOLO-Object-Detection)
+> **Deep Learning Computer Vision Pipeline with Real-Time Bounding Box Tracking & OCR**
+- Deployed state-of-the-art YOLOv8 object detection paired with EasyOCR image pre-processing (bilateral filtering, adaptive thresholding) for high-accuracy license plate character recognition.
+- **Technologies:** `Python` · `YOLOv8` · `OpenCV` · `EasyOCR` · `Deep Learning`
+
+---
+
+### 💳 06. [Fraud-Detection-Risk-Scoring](https://github.com/RedamJaswanth/Fraud-Detection-Risk-Scoring)
+> **High-Precision Financial Anomaly Classifier (99.95% Accuracy)**
+- Implemented an industrial fraud detection pipeline addressing severe class imbalance using SMOTE and hyperparameter-tuned XGBoost.
+- Features custom probability calibration, dynamic risk scoring tiers (Low, Medium, High, Critical), and 97.61% ROC-AUC.
+- **Technologies:** `Scikit-Learn` · `XGBoost` · `SMOTE` · `Pandas` · `Predictive Modeling`
+
+---
+
+### 📄 07. [Resume_Analyzer_App](https://github.com/RedamJaswanth/Resume_Analyzer_App)
+> **AI-Powered ATS Matching, Semantic Skill Gap Analysis & Career Intelligence**
+- Automated resume parsing system extracting candidate skills, experience, and certifications, matching them against job descriptions with semantic similarity scoring.
+- **Technologies:** `Python` · `NLP` · `Streamlit` · `Generative AI` · `Text Analytics`
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/RedamJaswanth?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-➔-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+  </a>
+</div>
+
+<br>
+
+---
+
+<!-- AI GAME LAB SECTION -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=AI%20GAME%20DEV%20LAB%20%26%20PROMPT-TO-PLAY&fontSize=20&fontColor=FF4DFF&color=0D1117&stroke=FF4DFF&strokeWidth=1"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 FEATURED AI PROJECTS
-
-## 🔎 `01` — CONTEXT-AWARE PDF RAG
-
-```text
-                         PDF
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │ Document Load │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │ Text Chunking │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │  Embeddings   │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │   ChromaDB    │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │   Retrieval   │
-                  └───────┬───────┘
-                          ▼
-                  ┌───────────────┐
-                  │  Gemini LLM   │
-                  └───────┬───────┘
-                          ▼
-                       ANSWER
-```
-
-**Stack**
-
-`Python` `LangChain` `Gemini` `ChromaDB` `Streamlit`
-
----
-
-## 💳 `02` — FRAUD DETECTION AI
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/XGBoost-99.95%20Accuracy-EC0000?style=for-the-badge"/>
-
-</p>
-
-```text
-TRANSACTION
-     │
-     ▼
-PREPROCESSING
-     │
-     ▼
-SMOTE
-     │
-     ▼
-XGBOOST
-     │
-     ▼
-PROBABILITY
-     │
-     ▼
-RISK ENGINE
-     │
-     ├── 🟢 LOW
-     ├── 🟡 MEDIUM
-     ├── 🟠 HIGH
-     └── 🔴 CRITICAL
-```
-
-### Performance
-
-```text
-Accuracy       ████████████████████  99.95%
-Precision      ██████████████████░░  88.04%
-Recall         █████████████████░░░  82.65%
-F1 Score       █████████████████░░░  85.26%
-ROC-AUC        ███████████████████░  97.61%
-```
-
----
-
-## 🚗 `03` — VEHICLE NUMBER PLATE AI
-
-```text
-             IMAGE
-               │
-               ▼
-          YOLOv8 MODEL
-               │
-               ▼
-        PLATE DETECTION
-               │
-               ▼
-        IMAGE PROCESSING
-               │
-               ▼
-           EasyOCR
-               │
-               ▼
-       NUMBER EXTRACTION
-```
-
-**Stack**
-
-`Python` `YOLOv8` `OpenCV` `EasyOCR`
-
----
-
-## 🧠 `04` — QLoRA LLM FINE-TUNING
-
-```text
-             Qwen2.5-1.5B
-                    │
-                    ▼
-              4-BIT NF4
-                    │
-                    ▼
-                LoRA
-                    │
-                    ▼
-              TRL TRAINING
-                    │
-                    ▼
-          SENTIMENT CLASSIFIER
-                    │
-                    ▼
-                 94%
-```
-
-**Stack**
-
-`Qwen2.5` `QLoRA` `LoRA` `TRL` `Transformers`
-
----
-
-# 🎮 PROMPT → GAME → PLAY
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════╗
-║                 AI GAME CREATION LOOP                 ║
-╠════════════════════════════════════════════════════════╣
-║                                                        ║
-║   💡 IDEA                                               ║
-║      ↓                                                 ║
-║   📝 PROMPT                                             ║
-║      ↓                                                 ║
-║   🤖 AI CODING                                          ║
-║      ↓                                                 ║
-║   💻 IMPLEMENTATION                                     ║
-║      ↓                                                 ║
-║   🐛 DEBUG                                              ║
-║      ↓                                                 ║
-║   🎮 PLAY                                               ║
-║      ↓                                                 ║
-║   🚀 IMPROVE                                            ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### Why I Build Games
-
-Game development lets me experiment with:
-
-* 🎯 Game logic
-* 🧠 AI-assisted programming
-* 🎨 Interactive UI
-* ⚙️ JavaScript / Python logic
-* 🧩 State management
-* 🕹️ User interaction
-* 💡 Rapid prototyping
-* 🤖 Prompt-driven software development
-
-> **A prompt can become an application. An application can become a game. A game can become an experiment.**
-
----
-
-# 🧪 EXPERIMENT ZONE
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                    EXPERIMENT ZONE                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [✓] Machine Learning                                   │
-│  [✓] Computer Vision                                    │
-│  [✓] RAG                                                │
-│  [✓] LLM Fine-Tuning                                    │
-│  [✓] AI Automation                                       │
-│  [✓] Prompt Engineering                                  │
-│  [✓] AI-Assisted Games                                  │
-│  [→] Advanced RAG                                       │
-│  [→] Agentic AI                                         │
-│  [→] MLOps                                              │
-│  [→] Production AI                                      │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
----
-
-# 🧠 AI ENGINEERING ROADMAP
-
-<div align="center">
-
-```text
-                    ┌───────────┐
-                    │  PYTHON   │
-                    └─────┬─────┘
-                          ↓
-                ┌─────────────────┐
-                │ MACHINE LEARNING│
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │ DEEP LEARNING   │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │   GENERATIVE AI │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      RAG        │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │   AGENTIC AI    │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │ LLM FINE-TUNING │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │     FASTAPI     │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      MLOps      │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │ PRODUCTION AI   │
-                └─────────────────┘
-```
-
-</div>
-
----
-
-# 📊 CURRENT LEARNING STATUS
-
-| Technology             | Focus               |
-| ---------------------- | ------------------- |
-| 🧠 Generative AI       | Advanced            |
-| 🔎 RAG                 | Advanced RAG        |
-| 🤖 Agentic AI          | Learning / Building |
-| 🧪 QLoRA               | Hands-on            |
-| 🤗 Transformers        | Hands-on            |
-| ⚡ FastAPI              | Learning            |
-| 🐳 Docker              | Learning            |
-| 📈 MLOps               | Roadmap             |
-| 🎮 AI Game Development | Experimenting       |
-
----
-
-# 🏗️ HOW I BUILD
-
-```text
-                ┌─────────────────┐
-                │     PROBLEM     │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      IDEA       │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │     PROMPT      │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      BUILD      │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      TEST       │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │      DEBUG      │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │     DEPLOY      │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │    IMPROVE      │
-                └─────────────────┘
-```
-
----
-
-# 📈 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RedamJaswanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedamJaswanth&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RedamJaswanth&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RedamJaswanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RedamJaswanth/RedamJaswanth/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-# 💻 TERMINAL
-
-```text
-Redam@AI-Lab:~$ whoami
-
-Redam Jaswanth
-
-Redam@AI-Lab:~$ role
-
-AI & Machine Learning Engineer
-
-Redam@AI-Lab:~$ focus
-
-Machine Learning
-Generative AI
-RAG
-Agentic AI
-Computer Vision
-AI-Assisted Development
-Game Development
-
-Redam@AI-Lab:~$ status
-
-BUILDING...
-
-Redam@AI-Lab:~$ mission
-
-Turn ideas into intelligent systems.
-
-Redam@AI-Lab:~$ _
-```
-
----
-
-# 🌌 THE VISION
-
-<div align="center">
-
-### **FROM PROMPT → CODE → INTELLIGENCE → EXPERIENCE**
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=800&color=FF4DFF&center=true&vCenter=true&width=800&lines=GAME+DEV+NODE+%3A+ACTIVE;PROMPT+%E2%86%92+CODE+%E2%86%92+PLAYABLE+GAME;AI-ASSISTED+GAME+DEVELOPMENT;CURSOR+%2B+AI+LOGIC+PIPELINES"/>
 
 <br>
 
 ```text
-🤖 AI
-   +
-💻 SOFTWARE
-   +
-🎮 INTERACTIVE EXPERIENCES
-   +
-🧠 CREATIVITY
-   =
-🚀 INTELLIGENT PRODUCTS
+┌────────────────────────────────────────────────────────────────────────┐
+│                        🕹️ PROMPT ➔ CODE ➔ GAMEPLAY                     │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│   💡 CONCEPTUAL IDEA                                                   │
+│        ↓                                                               │
+│   📝 NATURAL LANGUAGE PROMPT ARCHITECTURE                              │
+│        ↓                                                               │
+│   🤖 AI CODING ASSISTANT & CO-PILOT (Cursor / IDE)                     │
+│        ↓                                                               │
+│   ⚡ CODE SYNTHESIS (Physics, State Machine, Canvas, Mechanics)        │
+│        ↓                                                               │
+│   🧪 RAPID PLAYTESTING & ITERATIVE TUNING                              │
+│        ↓                                                               │
+│   🎮 PLAYABLE INTERACTIVE EXPERIENCE                                  │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
-
-<br>
-
-### I'm not limiting myself to one type of project.
-
-**AI systems.**
-
-**Automation.**
-
-**Games.**
-
-**Experiments.**
-
-**Tools.**
-
-**Anything that teaches me how to build better.**
 
 </div>
 
+> **Philosophy:** Building games is the ultimate test of software engineering, dynamic state management, user feedback loops, and creative logic. By leveraging AI-assisted coding, I translate mechanics from natural language into responsive gameplay.
+
 ---
 
-# 🤝 LET'S CONNECT
-
+<!-- GITHUB COMMAND CENTER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+to+AI%2FML+Opportunities;Open+to+AI+Projects+%26+Collaboration;Always+Building+Something+New"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=GITHUB%20TELEMETRY%20%26%20COMMAND%20CENTER&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
 
 <br><br>
 
+<!-- GITHUB STATS & TOP LANGS -->
 <a href="https://github.com/RedamJaswanth">
-<img src="https://img.shields.io/badge/GitHub-RedamJaswanth-181717?style=for-the-badge&logo=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RedamJaswanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Redam Jaswanth's GitHub Stats" />
 </a>
-
-<a href="https://www.linkedin.com/in/redamjaswanth/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jaswanthredam@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/RedamJaswanth">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedamJaswanth&layout=compact&theme=tokyonight&hide_border=true" alt="Redam Jaswanth's Top Languages" />
 </a>
 
 <br><br>
 
-### `BUILD • EXPERIMENT • BREAK • LEARN • REBUILD`
+<!-- STREAK STATS -->
+<a href="https://github.com/RedamJaswanth">
+  <img src="https://streak-stats.demolab.com?user=RedamJaswanth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/RedamJaswanth">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedamJaswanth&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
+</a>
+
+<br><br>
+
+<!-- ACHIEVEMENTS TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=RedamJaswanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
 
 </div>
 
 ---
 
+<!-- CONNECT & COLLABORATE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=45&text=LET%27S%20CONNECT%20%26%20COLLABORATE&fontSize=20&fontColor=00F7FF&color=0D1117&stroke=00F7FF&strokeWidth=1"/>
 
-### ⚡ `AI ENGINEERING MODE: ACTIVE`
+<br><br>
 
-**Made with Python · AI · Curiosity · Prompts · Creativity**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Open+for+AI+%2F+Machine+Learning+Engineering+Roles;Open+for+Collaborative+AI+%26+Multi-Agent+Projects;Always+Architecting+the+Next+Intelligent+System"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/redamjaswanth/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:jaswanthredam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Direct%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RedamJaswanth">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20%40RedamJaswanth-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  "The best way to predict the future is to architect the autonomous    │
+│   intelligent systems that build it."                                  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=gradient"/>
+
+<p align="center">
+  ⚡ <b>ENGINEERED BY REDAM JASWANTH</b> ⚡<br>
+  <sub>Powered by Python · Multi-Agent AI · Large Language Models · Curiosity</sub>
+</p>
 
 </div>
